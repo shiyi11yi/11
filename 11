@@ -1,0 +1,9 @@
+shadowsocks=music.desperadoj.com:30001, method=aes-128-gcm, password=desperadoj.com_free_proxy_d39m, fast-open=false, udp-relay=false, tag=🎧网易云音乐1
+shadowsocks=music.desperadoj.com:30003, method=aes-128-gcm, password=desperadoj.com_free_proxy_d39m, fast-open=false, udp-relay=false, tag=🎧网易云音乐2
+shadowsocks=music.desperadoj.com:30003, method=aes-128-gcm, password=desperadoj.com_free_proxy_d39m, fast-open=false, udp-relay=false, tag=🎧网易云音乐3
+shadowsocks=MUSIC.DESPERADOJ.COM:30001, method=aes-128-gcm, password=desperadoj.com_free_proxy_d39m, fast-open=false, udp-relay=false, tag=🎧网易云音乐4
+shadowsocks=MUSIC.DESPERADOJ.COM:30003, method=aes-128-gcm, password=desperadoj.com_free_proxy_d39m, fast-open=false, udp-relay=false, tag=🎧网易云音乐5
+http=music.lolico.me:39000, fast-open=false, udp-relay=false, tag=🎧网易云音乐6
+http=MUSIC.GRIOUGES.CN:39000, over-tls=false, fast-open=false, udp-relay=false, tag=🎧网易云音乐7
+http=SALVAN.ICU:19980, over-tls=false, fast-open=false, udp-relay=false, tag=🎧网易云音乐8
+http=music.griouges.cn:39000, tag=🎧网易云音乐9
