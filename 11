@@ -1,2 +1,3 @@
 http=106.12.121.187:4000, fast-open=false, udp-relay=false, tag=网易云1
-#shadowsocks=124.222.205.86:18888, method=chacha20-ietf, password=music, fast-open=false, udp-relay=false, tag=网易云2
+shadowsocks=106.12.121.187:18888, method=chacha20-ietf, password=music, fast-open=false, udp-relay=false, tag=网易云2
+shadowsocks=106.12.121.187:18888, method=chacha20-ietf, password=music, fast-open=false, udp-relay=false, tag=网易云3
